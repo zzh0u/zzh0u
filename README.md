@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="Cyberpunk-2077" src="https://github.com/user-attachments/assets/65a8030a-c972-4cbe-97e0-4edd1d9b7d90" />
+<img width="3840" height="2160" alt="Cyberpunk-2077" src="https://github.com/user-attachments/assets/33042891-6390-48fe-ac0d-a81353540b2e" />
 <!--
 **zzh0u/zzh0u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
